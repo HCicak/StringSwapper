@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringSwapper", "StringSwapper\StringSwapper.csproj", "{9FBECDBF-FF6D-4B70-BE8C-73DD93AEE541}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2E3B0F8D-95F8-43CE-B4BB-D150716A83DB}"
+	ProjectSection(SolutionItems) = preProject
+		hr_HR.dic = hr_HR.dic
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBECDBF-FF6D-4B70-BE8C-73DD93AEE541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBECDBF-FF6D-4B70-BE8C-73DD93AEE541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBECDBF-FF6D-4B70-BE8C-73DD93AEE541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBECDBF-FF6D-4B70-BE8C-73DD93AEE541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AB98B2-BFC3-4D3F-9C38-A76AAFA7342E}
+	EndGlobalSection
+EndGlobal
